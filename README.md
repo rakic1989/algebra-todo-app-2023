@@ -9,7 +9,7 @@ Install Node v14.16.0
 
 ##Features
 
-- [] Add a todo item
-- [] List todo items
-- [] Remove todo item
-- [] Mark todo item as done
+- [ ] Add a todo item
+- [X] List todo items
+- [ ] Remove todo item
+- [X] Mark todo item as done
