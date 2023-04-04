@@ -9,7 +9,7 @@ Install Node 14+.
 
 ## Features
 
-- [ ] Add a todo item
+- [x] Add a todo item
 - [x] List todo items
 - [x] Remove todo item
 - [x] Mark todo item as done
