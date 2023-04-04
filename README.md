@@ -1,15 +1,17 @@
-#Todo App
+# Todo App
 
-##Getting started
+## Getting started
 
-Install Node v14.16.0
+Install Node 14+.
 
 1. npm install
 2. npm run dev
 
-##Features
+## Features
 
 - [ ] Add a todo item
-- [X] List todo items
-- [ ] Remove todo item
-- [X] Mark todo item as done
+- [x] List todo items
+- [x] Remove todo item
+- [x] Mark todo item as done
+- [x] Sort by date
+- [x] Filter by name
